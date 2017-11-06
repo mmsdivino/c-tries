@@ -1,0 +1,6 @@
+testes/arq1.txt testes/arq2.txt
+FRASE NAO ENCONTRADA!
+testes/arq1.txt testes/arq2.txt testes/arq3.txt
+testes/arq2.txt
+testes/arq3.txt
+testes/arq1.txt

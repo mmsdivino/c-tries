@@ -1,0 +1,2 @@
+testes/arq6.txt
+FRASE NAO ENCONTRADA!

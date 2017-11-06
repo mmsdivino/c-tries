@@ -1,0 +1,4 @@
+FRASE NAO ENCONTRADA!
+testes/arq8.txt
+testes/arq7.txt
+testes/arq9.txt

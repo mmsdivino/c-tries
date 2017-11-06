@@ -1,0 +1,2 @@
+testes/arq4.txt
+testes/arq4.txt
