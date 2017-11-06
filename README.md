@@ -24,7 +24,7 @@ Segue abaixo alguns exemplos:
 
 
 ```
-**$ ./a.out arq1.txt arq2.txt arq3.txt**
+./a.out arq1.txt arq2.txt arq3.txt
 ```
 
 | **Entrada padrão**  | **Saída padrão**           |
